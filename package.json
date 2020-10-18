@@ -1,0 +1,16 @@
+{
+  "name": "jscsvreader",
+  "version": "1.0.0",
+  "description": "tool to read csv files",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parser": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MrR3set",
+  "license": "ISC"
+}
